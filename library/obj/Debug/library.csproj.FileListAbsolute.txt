@@ -1,7 +1,0 @@
-C:\Users\Данил\source\repos\library\library\obj\Debug\library.csproj.AssemblyReference.cache
-C:\Users\Данил\source\repos\library\library\obj\Debug\library.csproj.CoreCompileInputs.cache
-C:\Users\Данил\source\repos\library\library\bin\Debug\library.exe.config
-C:\Users\Данил\source\repos\library\library\bin\Debug\library.exe
-C:\Users\Данил\source\repos\library\library\bin\Debug\library.pdb
-C:\Users\Данил\source\repos\library\library\obj\Debug\library.exe
-C:\Users\Данил\source\repos\library\library\obj\Debug\library.pdb
